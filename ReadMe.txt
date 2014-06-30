@@ -22,5 +22,6 @@ Christian Ghisler
 http://www.ghisler.com
 
 64-bit version:
-Petr Kratina
+Petr Kratina <petr.kratina@gmail.com>
 http://www.darkyork.com
+Source: https://github.com/AfBu/sertransplg
